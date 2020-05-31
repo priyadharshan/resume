@@ -1,0 +1,48 @@
+# Site
+repository: priyadharshan/resume
+favicon: images/favicon.ico
+
+# Personal info
+name: Priyadharshan Sekar
+title: Senior Software Designer
+email: gpriyadharshan91@gmail.com
+website: https://github.com/priyadharshan/resume
+
+# Social links
+twitter_username: priyadharshan31
+github_username: priyadharshan
+linkedin_username: priyadharshan91
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: |
+  Hi, my name's Priyadharshan and I'm a Software Designer.
+
+  I am most skilled in: <mark>JavaScript</mark> and <mark>React</mark>.
+
+  A Passionate developer with 7.5 years of experience and demonstrated history of working with complex, large-scale, high performant web applications in banking and services industry.
+
+  Looking for a role that encourages strong collaboration with others to create scalable and robust application.
+
+  I enjoy what I do, and take real pride in building things that look great and work well.
+
+# Projects Section
+projects_title: Projects
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+educaton_title: Education
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+plugins:
+  - jekyll-seo-tag
+
+darkmode: true

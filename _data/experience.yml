@@ -1,0 +1,81 @@
+- layout: left
+  company: Royal Bank of Scotland
+  link: https://www.rbs.com
+  job_title: Seniot Software Designer
+  dates: December 2017 - Present
+  description: |
+    - Development of front-end apps for high-traffic Commercial & Private Banking customers 
+
+    - Rearchitected legacy banking application front-end
+
+    - Integration with RESTful & SOAP micro-services & legacy systems
+
+    - Led a front-end testing culture, leveraging
+    <mark>jest</mark>,
+    <mark>enzyme</mark>,
+    <mark>testcafe</mark> &
+    <mark>storybook</mark>
+
+    - Delivered regular front-end community presentations (git process, test-driven-development, functional programming, development and deployment of cloud tooling) to multiple scrum teams
+
+    - Internally published Storybook plugin for lifecycle performance measurement for React components
+
+    - Built Cloud Foundry environments for stubbed sandbox environment & DevOps tooling 
+
+    - Primary technologies used:
+      <mark>React</mark>,
+      <mark>Redux</mark>,
+      <mark>Jest</mark>,
+      <mark>Testcafe</mark>,
+      <mark>Ramda</mark>,
+      <mark>Webpack</mark>,
+      <mark>Babel</mark>,
+      <mark>ES6</mark>,
+      <mark>Git</mark>
+
+    - Promoting adherence to <mark>WCAG AA standards</mark> for accessibility
+
+- layout: left
+  company: Gousto
+  link: https://www.gousto.co.uk
+  job_title: Senior Software Engineer
+  dates: October 2014 - November 2017
+  description: |
+    - Technical lead of Scrum delivery team; new features; production support; delivered legacy Laravel to Universal (isomorphic) React/Redux stack; delivering UX best-practices; code-review & sign-off
+
+    - Line manager & 1:1 coach for 5 engineers
+
+    - Consuming Microservices through RESTful API’s
+
+    - Advocating TDD, using modern JavaScript frameworks;
+    <mark>Enzyme</mark>,
+    <mark>Mocha</mark>/
+    <mark>Chai</mark>/
+    <mark>Sinon</mark>,
+    <mark>Selenium</mark> (via <mark>nightwatch.js</mark>)
+
+    - On-boarding & up-skilling of Junior/Mid engineers
+
+    - Implemented Scrum across multiple business functions (Data/Analytics, Brand, Projects, Digital Product)
+
+    - Created & led Tech recruitment initiative; defined Jira workflow, created a low-bias pipeline; tested & interviewed ~300+ engineers; managed hiring engineering team from 3 to 18 engineers; arranged, attended & organised recruitment events
+
+- layout: left
+  company: Appfly
+  link: https://www.appfly.com
+  job_title: Web Developer
+  dates: April 2013 - October 2014
+  description: |
+    - Full-stack development of RWAs using <mark>RoR</mark>, vanilla <mark>ES5</mark>, <mark>MySQL</mark>/<mark>Postgres</mark>
+
+    - Project samples: [https://behance.net/garethtalty](https://behance.net/garethtalty){:target="_blank"}
+
+- layout: left
+  company: YSE
+  link: https://www.yseski.co.uk
+  job_title: Technical Engineer
+  dates: November 2011 - May 2012
+  description: |
+    - Installation & configuration of Wi-Fi networks in 21 privately owned chalet residences
+
+    - 1st line technical support for up to 200 guests each week
