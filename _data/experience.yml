@@ -1,27 +1,9 @@
 - layout: left
   company: Royal Bank of Scotland
   link: https://www.rbs.com
-  job_title: Seniot Software Designer
-  dates: December 2017 - Present
+  job_title: Senior Software Designer
+  dates: October 2016 - Present
   description: |
-    - Development of front-end apps for high-traffic Commercial & Private Banking customers 
-
-    - Rearchitected legacy banking application front-end
-
-    - Integration with RESTful & SOAP micro-services & legacy systems
-
-    - Led a front-end testing culture, leveraging
-    <mark>jest</mark>,
-    <mark>enzyme</mark>,
-    <mark>testcafe</mark> &
-    <mark>storybook</mark>
-
-    - Delivered regular front-end community presentations (git process, test-driven-development, functional programming, development and deployment of cloud tooling) to multiple scrum teams
-
-    - Internally published Storybook plugin for lifecycle performance measurement for React components
-
-    - Built Cloud Foundry environments for stubbed sandbox environment & DevOps tooling 
-
     - Primary technologies used:
       <mark>React</mark>,
       <mark>Redux</mark>,
@@ -33,49 +15,79 @@
       <mark>ES6</mark>,
       <mark>Git</mark>
 
-    - Promoting adherence to <mark>WCAG AA standards</mark> for accessibility
+    - Rearchitected high traffic legacy commercial & private banking frontend application with react/redux and restful services.
+
+    - Developed a UI react components library (Zambezi) to support multi branding banking applications. This offers a set of re-usable components and modules with theming capabilities.
+
+    - Delivered regular front-end community presentations (git flow, reactive pattern in redux, test-driven development, functional programming) to multiple scrum teams.
+
+    - Involved in creating the design and architecting frontend and restful services of payments domain.
+
+    - Performed global code refactoring , optimized wepback, component for maximum performance to improve application stability, Resulted into 30% faster loading times for our data heavy banking application.
+
+    - Developed an RestAPI browser using swagger UI that dynamically generates api documentation of microservices. This tool is now used across the domains to preview documentations and api specifications.
+
+    - Introduced coding standards, living docs and helped the team to develop more reliable, readable, maintainable codes.
+
+    - Mentored and trained team members and new hires.
+
+    - In addition to my role, led the two scrum teams direction for frontend technologies, focusing on re-usability, performance, and best-practices.
+
+    - Promoting adherence to WCAG AA standards for accessibility.
 
 - layout: left
-  company: Gousto
-  link: https://www.gousto.co.uk
-  job_title: Senior Software Engineer
-  dates: October 2014 - November 2017
+  company: Infosys
+  link: https://www.infosys.com/
+  job_title: Senior Systems Engineer
+  dates: August 2014 - October 2016
   description: |
-    - Technical lead of Scrum delivery team; new features; production support; delivered legacy Laravel to Universal (isomorphic) React/Redux stack; delivering UX best-practices; code-review & sign-off
+    - Primary technologies used:
+      <mark>Backbone</mark>,
+      <mark>Handlebars</mark>,
+      <mark>UnderScore</mark>,
+      <mark>Jquery</mark>,
+      <mark>HTML5</mark>,
+      <mark>SASS</mark>,
+      <mark>CSS3</mark>,
+      <mark>Jasmine</mark>,
+      <mark>Karma</mark>
 
-    - Line manager & 1:1 coach for 5 engineers
-
-    - Consuming Microservices through RESTful API’s
-
-    - Advocating TDD, using modern JavaScript frameworks;
-    <mark>Enzyme</mark>,
-    <mark>Mocha</mark>/
-    <mark>Chai</mark>/
-    <mark>Sinon</mark>,
-    <mark>Selenium</mark> (via <mark>nightwatch.js</mark>)
-
-    - On-boarding & up-skilling of Junior/Mid engineers
-
-    - Implemented Scrum across multiple business functions (Data/Analytics, Brand, Projects, Digital Product)
-
-    - Created & led Tech recruitment initiative; defined Jira workflow, created a low-bias pipeline; tested & interviewed ~300+ engineers; managed hiring engineering team from 3 to 18 engineers; arranged, attended & organised recruitment events
+    - Improved legacy front end by replacing it with Backbone JS, Handlebars and restful services.
+    
+    - Modernized legacy vendor payment management app with CSS/SASS.
+    
+    - Optimized service request and data model of online bankling applictaion that improved loading time and user experience.
+    
+    - Cross-browser responsive web development.
+    
+    - Used Grunt for various automated pre-build tasks to lint JavaScript, HTML and CSS files to ensure code compliance, web standards and code optimized for production.
+    
+    - Built CI/CD pipelines using TeamCity and custom scripts - helping teams to deploy more than 5 times in a day.
+    
+    - Coordinated a small team and mentored team members on UI development practices.
 
 - layout: left
-  company: Appfly
-  link: https://www.appfly.com
-  job_title: Web Developer
-  dates: April 2013 - October 2014
+  company: Kclink Software technologies
+  job_title: Software Engineer
+  dates: October 2012 - August 2014
   description: |
-    - Full-stack development of RWAs using <mark>RoR</mark>, vanilla <mark>ES5</mark>, <mark>MySQL</mark>/<mark>Postgres</mark>
+    - Primary technologies used:
+      <mark>ASP.NET</mark>,
+      <mark>C#.NET</mark>,
+      <mark>ADO.NET</mark>,
+      <mark>Ajax</mark>,
+      <mark>HTML</mark>,
+      <mark>CSS</mark>,
+      <mark>SQL Server 2008</mark>
 
-    - Project samples: [https://behance.net/garethtalty](https://behance.net/garethtalty){:target="_blank"}
-
-- layout: left
-  company: YSE
-  link: https://www.yseski.co.uk
-  job_title: Technical Engineer
-  dates: November 2011 - May 2012
-  description: |
-    - Installation & configuration of Wi-Fi networks in 21 privately owned chalet residences
-
-    - 1st line technical support for up to 200 guests each week
+    - Designed and developed Web Forms using ASP.NET and C#.
+    
+    - Used ADO.NET Database Connectivity for storage and retrieval of data from Database.
+  
+    - Used Dataset, Data Adapter to manipulate and display data.
+  
+    - Used JavaScript for client-side validations.
+  
+    - Used CSS in ASP.NET pages for various GUI effects and to improve the look and feel of the applications.
+  
+    - Implemented 3-tier Architecture for Presentation, Business and Data Access Layers and were coded using C#.
