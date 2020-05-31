@@ -1,11 +1,17 @@
 - layout: left
-  name: University of Bath
-  dates: 2005 - 2010
-  qualification: BSc Computer Science (Computer Information Systems)
+  name: KCG College of Technology, Anna University
+  dates: 2008 - 2012
+  qualification: BE - Electronics and Communication
   description: |
 
 - layout: left
-  name: Abingdon & Witney College
-  dates: 2003 - 2005
-  qualification: AVCE (Double Award) Information Communication Technology
+  name: Jeeva velu residential school
+  dates: 2007 - 2008
+  qualification: Higher Secondary (Class 12th)
+  description: |
+
+- layout: left
+  name: Gandhi nagar matriculation school
+  dates: 2005 - 2006
+  qualification: Matriculation (Class 10th)
   description: |
