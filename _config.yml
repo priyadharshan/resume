@@ -1,6 +1,5 @@
 # Site
 repository: priyadharshan/resume
-favicon: images/favicon.ico
 
 # Personal info
 name: Priyadharshan Sekar
@@ -15,7 +14,7 @@ linkedin_username: priyadharshan91
 
 # About Section
 about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/Priyadharshan.JPG
 about_content: |
   Hi, my name's Priyadharshan and I'm a Software Designer.
 
