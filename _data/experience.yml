@@ -17,21 +17,26 @@
 
     - Rearchitected high traffic legacy commercial & private banking frontend application with react/redux and restful services.
 
-    - Developed a UI react components library (Zambezi) to support multi branding banking applications. This offers a set of re-usable components and modules with theming capabilities.
+    - Developed a UI react components library (Zambezi) to support multi branding banking applications. This offers a set of reusable
+      components and modules with theming capabilities.
 
-    - Delivered regular front-end community presentations (git flow, reactive pattern in redux, test-driven development, functional programming) to multiple scrum teams.
+    - Delivered regular front-end community presentations (git-flow, reactive pattern in redux, test-driven development, functional
+      programming) to multiple scrum teams.
 
-    - Involved in creating the design and architecting frontend and restful services of payments domain.
+    - Involved in creating the design and architecting frontend and restful services of the payments domain.
 
-    - Performed global code refactoring , optimized wepback, component for maximum performance to improve application stability, Resulted into 30% faster loading times for our data heavy banking application.
+    - Performed global code refactoring, optimized wepback, component for maximum performance to improve application stability,
+      Resulted in 30% faster loading times for our data-heavy banking application.
 
-    - Developed an RestAPI browser using swagger UI that dynamically generates api documentation of microservices. This tool is now used across the domains to preview documentations and api specifications.
+    - Developed a RestAPI browser using swagger UI that dynamically generates API documentation of microservices. This tool is
+      now used across the domains to preview documentation and API specifications.
 
-    - Introduced coding standards, living docs and helped the team to develop more reliable, readable, maintainable codes.
+    - Introduced coding standards, living docs, and helped the team to develop more reliable, readable, maintainable codes.
 
     - Mentored and trained team members and new hires.
 
-    - In addition to my role, led the two scrum teams direction for frontend technologies, focusing on re-usability, performance, and best-practices.
+    - In addition to my role, I led the two scrum teams direction for frontend technologies, focusing on reusability, performance, and
+      best-practices.
 
     - Promoting adherence to WCAG AA standards for accessibility.
 
@@ -52,15 +57,16 @@
       <mark>Jasmine</mark>,
       <mark>Karma</mark>
 
-    - Improved legacy front end by replacing it with Backbone JS, Handlebars and restful services.
+    - Improved legacy front end by replacing it with Backbone JS, Handlebars, and restful services.
     
     - Modernized legacy vendor payment management app with CSS/SASS.
     
-    - Optimized service request and data model of online bankling applictaion that improved loading time and user experience.
+    - Optimized service request and data model of an online banking application that improved loading time and user experience.
     
     - Cross-browser responsive web development.
     
-    - Used Grunt for various automated pre-build tasks to lint JavaScript, HTML and CSS files to ensure code compliance, web standards and code optimized for production.
+    - Used Grunt for various automated pre-build tasks to lint JavaScript, HTML, and CSS files to ensure code compliance, web
+      standards, and code optimized for production.
     
     - Built CI/CD pipelines using TeamCity and custom scripts - helping teams to deploy more than 5 times in a day.
     
@@ -80,11 +86,11 @@
       <mark>CSS</mark>,
       <mark>SQL Server 2008</mark>
 
-    - Designed and developed Web Forms using ASP.NET and C#.
+    - Used ASP.NET, C#, and Javascript to design and develop new sites and web-based solutions, both frontend, and backend.
     
-    - Used ADO.NET Database Connectivity for storage and retrieval of data from Database.
-  
-    - Used Dataset, Data Adapter to manipulate and display data.
+    - Used ADO.NET Database Connectivity for storage and retrieval of data from the database.
+
+    - Worked on SQL database design projects and Improved speed of the existing datasets.
   
     - Used JavaScript for client-side validations.
   
